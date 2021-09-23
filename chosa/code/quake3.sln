@@ -22,6 +22,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cgame_ui", "cgame_ui\cgame_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qagame", "qagame\qagame.vcxproj", "{F9EE10DA-2404-4154-B904-F93C936C040A}"
 	ProjectSection(ProjectDependencies) = postProject
+		{7B359F58-F9DC-472C-A53D-47C286D12F2C} = {7B359F58-F9DC-472C-A53D-47C286D12F2C}
 		{B5045CDA-4796-4CB2-B680-942A51ACCC71} = {B5045CDA-4796-4CB2-B680-942A51ACCC71}
 	EndProjectSection
 EndProject
